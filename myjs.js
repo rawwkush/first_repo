@@ -1,5 +1,5 @@
 var typed = new Typed(".typed", {
-    strings: ["Android Developer.", "Web Developer.", "Programmer."],
+    strings: ["Thinkitive", "Github.", "Git","Web Dev"],
     typeSpeed: 70,
     loop: true,
     startDelay: 1000,
